@@ -3,11 +3,9 @@ PROJECT TITLE-ONLINE PAYMENT FRAUD DETECTION FOR BLOSSOM BANK PLC
 
 INTRODUCTION:
 
-The introduction of online payment systems has helped a lot in the ease of payments. But, at the same time, it increased in payment frauds. Online payment frauds can happen with anyone using any payment system. That is why detecting online payment fraud is very important for finacial institutions to ensure that the customers are not getting charged for the products and services they never paid.
+The introduction of online payment systems has helped a lot in the ease of payments. But, at the same time, it increased in payment frauds. Online payment frauds can happen with anyone using any payment system. That is why detecting online payment fraud is very important for finacial institutions to ensure that the customers are not getting charged for the products and services they never paid. This project looks to build  machine learning models using the dataset of transactions of Blossom bank Plc.
 
-PROJECT DESCRIPTION:
-
-Blossom Bank, also known as BB PLC, is a multinational financial services group that offers retail and investment banking, pension management, asset management and payments services, headquartered in London, UK. Blossom Bank wants to build a Machine Learning model to predict online payment fraud, which will boost customers' confidence in the Bank, increase profitability and also assist the Bank guide against online fraud risks.
+To identify online payment fraud with machine learning, we need to train a machine learning model for classifying fraudulent and non-fraudulent payments. For this, we need a dataset containing information about online payment fraud, so that we can understand what type of transactions lead to fraud. For this task, I made use of the given dataset, which contains historical information about fraudulent transactions from Blossom Bank plc.which can be used to detect fraud in online payments.
 
 DATA DICTIONARY (Description of the Columns):
 
