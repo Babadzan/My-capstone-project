@@ -31,15 +31,17 @@ DATA DICTIONARY (Description of the Columns):
 
 STEPS TAKEN:
 
+Importation of necessary Libraries
+
 Data Inspection
 
-Loaded the csv data using pd.read_csv(‘online payment fraud’)
-Checked the rows, to know the variables in the head and tail rows
+Loaded the csv data using pd.read_csv
+check rows and columns for better understanding of the data set
 Checked the data info to know the total number of columns and the data type of each column (object, float or integer)
 Data Cleansing
 
 Checked for missing values
-In this data set, there are no missing values and no unnecessary records to delete or replace
+
 Exploratory Data Analysis
 
 Visualized relationships between the label and some key features
