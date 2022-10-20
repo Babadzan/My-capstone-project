@@ -29,7 +29,7 @@ DATA DICTIONARY (Description of the Columns):
 
 • isFraud: fraud transaction
 
-STEPS TAKEN:
+## STEPS TAKEN:
 
 Importation of necessary Libraries
 
@@ -45,7 +45,7 @@ Data Cleansing
 
 Checking  for missing values
 
-Exploratory Data Analysis
+## Exploratory Data Analysis
 
 Visualized relationships between the label and some key features
 
@@ -60,7 +60,7 @@ joining the encoded variables back to the main dataframe using pd.concat()
 
 removing the initial categorical column after it has been encoded 
 
-# Modelling
+## Modelling
 Selection of features(X) and target(y)
 
 Importation and initialization of necessary libraries for modelling
@@ -69,5 +69,5 @@ The ML models used are Random Forest Classifier, KNeighbors, Naive Bayes Classif
 
  Model evaluation
 
-# Conclusion
+## Conclusion
 RandomForest classsifier shows the highest accuracy and precision, hence it can be considered best suited for predicting online payment fraud for Blossom bank plc.
