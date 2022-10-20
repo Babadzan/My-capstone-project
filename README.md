@@ -51,7 +51,7 @@ Visualized relationships between the label and some key features
 
 Conducted univariate and multivariate analysis using appropraite visualization tools.
 
-# Feature Engineering
+## Feature Engineering
 Drop unneccesary columns
 
 Conversion of categorical data in Column 'type' to numerical data using One-Hot Encoding (pd.get_dummies())
@@ -67,7 +67,7 @@ Importation and initialization of necessary libraries for modelling
 
 The ML models used are Random Forest Classifier, KNeighbors, Naive Bayes Classifier and Decision Tree Classifier
 
-# Model evaluation
+ Model evaluation
 
-# Conclution
+# Conclusion
 RandomForest classsifier shows the highest accuracy and precision, hence it can be considered best suited for predicting online payment fraud for Blossom bank plc.
